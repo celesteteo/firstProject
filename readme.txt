@@ -24,3 +24,8 @@ git add .
 git commit -m "something meaning"
 
 git log
+
+iii. set up github acct 
+iv. create a new repo on github, copy paste the 3 commands, u only need to do this once
+
+v. git push

@@ -22,3 +22,5 @@ commit - save
 git status
 git add .
 git commit -m "something meaning"
+
+git log
